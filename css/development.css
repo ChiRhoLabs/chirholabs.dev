@@ -1,0 +1,31 @@
+/*
+ * CHI RHO LABS — Development theme variables
+ * Shared layout and typography: css/base.css
+ */
+:root {
+    color-scheme: dark;
+
+    --bg: #111110;
+    --header-bg: #171614;
+    --surface: #1c1b18;
+    --card-bg: #27241d;
+    --footer-bg: #10100f;
+    --contact-background: #191712;
+    --hero-background: linear-gradient(135deg, #10100f 0%, #241b10 100%);
+
+    --text: #f2eee4;
+    --heading: #f5ead4;
+    --muted: #d0c6b6;
+    --secondary: #b9ae9d;
+    --brand: #ffb64c;
+    --border: #56412b;
+    --accent: #ffb54b;
+
+    --button-bg: #df932d;
+    --button-hover: #f4ae4a;
+    --button-text: #16120d;
+
+    /* Destination preview: Development -> Enterprise */
+    --switch-bg: #7897b2;
+    --switch-text: #101923;
+}
